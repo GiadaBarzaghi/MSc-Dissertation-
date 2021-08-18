@@ -1,0 +1,469 @@
+﻿NFR,Sector,Table,Type,Technology,Fuel,Abatement,Region,Pollutant,Value,Unit,CI_lower,CI_upper,Reference
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.45,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.02,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,CO2,8072.95,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.14,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,CO,14.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,CO,11.63,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,H2O,1799.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,CO,29.62,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,CO,18.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.6,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,H2O,4273.55,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,HC,0.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,HC,1.64,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO,21.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO,21.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,CO2,6362.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,NOx,34.81,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,CO,14.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,CO,13.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,HC,1.2,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.06,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,CO2,2775.47,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.74,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,H2O,3781.71,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO,27.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,NOx,47.54,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,H2O,3781.71,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,CO2,10624.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,HC,0.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,NOx,67.26,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,H2O,5095.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,HC,0.79,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,NOx,61.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,NOx,52.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,H2O,4083.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,HC,2.05,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,CO2,4292.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,HC,0.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,NOx,17.85,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,NOx,4.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,H2O,592.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,CO,4.11,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,HC,0.04,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,NOx,0.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,CO2,9736.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,CO2,10944.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,NOx,35.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,NOx,11.28,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,H2O,2484.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,CO2,5427.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.14,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,CO2,4821.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.69,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.5,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,NOx,18.68,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,CO,7.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,CO,4.51,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,TSP,0.22,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,CO2,5339.85,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,NOx,15.62,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,NOx,35.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,HC,0.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,NOx,23.76,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,H2O,4083.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.14,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,H2O,1800.28,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,HC,0.11,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,CO2,4607.37,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,NOx,0.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,CO,18.28,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,CO2,1516.91,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,CO,26.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,CO2,7263.67,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,CO,20.59,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,HC,2.37,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,H2O,2666.73,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,CO2,6362.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.03,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,CO2,2570.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,CO,13.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,NOx,12.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,H2O,1083.75,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,NOx,47.54,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,H2O,3781.71,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO,27.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO2,9684.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,CO2,10624.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,CO,15.05,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,HC,0.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,HC,0.38,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,HC,1.43,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,TSP,0.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,SOx,1.42,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,CO2,5449.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.02,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,HC,7.56,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,CO,29.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,NOx,69.79,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,CO,12.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,HC,0.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,H2O,592.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,HC,0.04,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,CO,47.54,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,H2O,4273.55,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,H2O,1003.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO2,6829.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.06,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO2,6829.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,NOx,35.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,NOx,18.68,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,CO2,5427.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.45,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,CO,14.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,HC,1.2,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,H2O,847.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,CO2,4821.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,HC,1.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,H2O,1014.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,NOx,47.54,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO,27.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.69,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,CO2,10329.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,H2O,5095.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1463.64,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2305.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2019.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1530.55,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3074.57,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3372.96,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1729.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3090.84,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3474.43,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,816.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3074.57,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2562.84,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1362.6,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,481.56,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3474.43,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2168.08,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,881.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3074.57,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,4142.4,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,824.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2562.84,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,217.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1530.55,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3319.68,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,824.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-3,Tier 1 emission factor,NA,Jet Gasoline and Aviation Gasoline,,NA,SOx,1,kg/tonne fuel,0.5,2,Assuming 0.05% S by mass
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,CO2,7580.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,H2O,2127.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,NOx,44.45,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,CO2,4607.37,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,CO,12.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,CO2,10456.98,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,H2O,267.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,HC,13.48,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,TSP,0,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,NOx,69.79,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,HC,5.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,NOx,49.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,H2O,1003.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,CO2,2570.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,HC,2.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.45,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,NOx,12.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,HC,0.72,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,CO,25.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO2,9684.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,CO,15.05,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,HC,0.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,CO,8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,H2O,4148.74,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,CO2,13048.56,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,SOx,3.48,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,NOx,10.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,HC,3.9,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,CO,12.31,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,H2O,3152.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,CO,12.76,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,CO2,1516.91,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,CO2,4610.47,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,HC,0.11,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.4,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,CO2,684.03,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,CO,47.54,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,CO,8.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO2,6829.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,NOx,35.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,H2O,1882.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,HC,1.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,CO2,2169.76,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,H2O,847.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,HC,0.86,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,HC,3.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO,27.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,HC,3.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,CO2,10329.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,NOx,57.78,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.2,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,NOx,64.67,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,H2O,1014.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,CO2,2597.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,H2O,225.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,CO2,578.6,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2627.91,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-3,Tier 1 emission factor,NA,Jet Gasoline and Aviation Gasoline,,NA,NOx,4,kg/tonne fuel,2,8,Calculated using Tier 2 method
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-3,Tier 1 emission factor,NA,Jet Gasoline and Aviation Gasoline,,NA,CO,1200,kg/tonne fuel,600,2400,Calculated using Tier 2 method
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,HC,2.37,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,SOx,1.94,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,CO2,8277.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,SOx,2.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,CO,20.59,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,HC,1.51,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,NOx,52.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,HC,0.66,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,CO,25.27,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,HC,2.05,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,H2O,1799.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,HC,3.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,NOx,17.85,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,CO,11.63,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.6,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,SOx,2.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.18,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,CO,18.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,TSP,0,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,H2O,225.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.13,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,CO2,8277.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,NOx,49.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,CO,7.97,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.12,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,SOx,1.94,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,TSP,0.22,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,HC,1.64,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,NOx,35.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO,21.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,NOx,34.81,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,HC,2.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,H2O,2119.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,NOx,7.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,HC,0.86,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,HC,0.72,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,HC,3.9,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,H2O,4033.31,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.75,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,CO,29.62,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,NOx,10.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.12,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,NOx,61.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,CO2,7580.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,H2O,2127.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.45,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,H2O,3152.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,CO2,9736.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,CO2,4610.47,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.79,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,H2O,267.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,H2O,3232.33,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,TSP,0.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,CO2,578.6,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,NOx,1.69,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,NOx,44.45,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,CO,4.11,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,H2O,3801.73,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,CO2,5339.85,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,H2O,2666.73,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,CO,25.23,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO,21.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,SOx,1.7,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,H2O,2484.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,NOx,25.86,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,CO2,2169.76,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,CO,9.49,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,HC,1.96,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,CO,8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,CO,7.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,H2O,3781.71,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.14,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,HC,3.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,H2O,4148.74,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,CO,15.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.5,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,SOx,3.48,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,NOx,67.26,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,CO2,13048.56,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.2,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2406.41,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1729.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,217.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2627.91,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,816.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3319.68,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1723.14,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,881.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3074.57,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1723.14,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,688.81,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3279.12,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,183.68,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1362.6,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1463.64,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1462.66,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,183.68,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2168.08,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2019.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,688.81,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3372.96,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1695.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2305.93,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-3,Tier 1 emission factor,NA,Jet Gasoline and Aviation Gasoline,,NA,NMVOC,19,kg/tonne fuel,9.5,38,Calculated using Tier 2 method
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,HC,7.56,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,CO,29.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,NOx,26.67,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,CO2,5449.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,H2O,2959.88,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,HC,3.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,H2O,1676,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,HC,0.66,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,HC,0.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.79,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,CO,25.27,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,NOx,14.98,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,H2O,1800.28,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,NOx,23.76,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.18,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.03,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,H2O,3801.73,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.21,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,CO,7.97,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.07,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,CO2,6829.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,H2O,2666.73,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.82,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,H2O,2666.73,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,HC,2.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-g,Tier 2 Emission Factor,A343_AIRBUS_Jet_2CM015_4,Jet Gasoline and Aviation Gasoline,,,SOx,1.7,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,NOx,1.69,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,NOx,25.86,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-a,Tier 2 Emission Factor,A306_AIRBUS_Jet_1PW048_2,Jet Gasoline and Aviation Gasoline,,,H2O,2119.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,SOx,1.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,NOx,7.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,CO,9.49,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,HC,1.96,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,H2O,1083.75,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,NOx,47.54,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.69,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO2,9684.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.75,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,H2O,4033.31,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,CO,15.92,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.2,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,HC,0.38,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.83,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.13,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,NOx,38.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,H2O,3232.33,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,CO,18.28,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,H2O,2836.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,H2O,2085.08,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,CO,26.32,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,CO2,7263.67,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,H2O,2959.88,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-s,Tier 2 Emission Factor,B763_BOEING_Jet_12PW101_2,Jet Gasoline and Aviation Gasoline,,,NOx,26.67,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,CO2,8072.95,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,CO,12.31,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,SOx,2.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,CO,12.76,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-u,Tier 2 Emission Factor,B773_BOEING_Jet_2RR027_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,CO2,4292.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,NOx,14.98,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-p,Tier 2 Emission Factor,B752_BOEING_Jet_5RR038_2,Jet Gasoline and Aviation Gasoline,,,H2O,1676,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-q,Tier 2 Emission Factor,B753_BOEING_Jet_5RR039_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,CO,14.8,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.4,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,CO2,684.03,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-aa,Tier 2 Emission Factor,F27_FOKKER_Turboprop_Turboprop_2,Jet Gasoline and Aviation Gasoline,,,HC,13.48,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,HC,5.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,NOx,38.17,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ab,Tier 2 Emission Factor,MD11_MCDONNELL DOUGLAS_Jet_2GE049_3,Jet Gasoline and Aviation Gasoline,,,HC,1.43,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,CO,4.51,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-ac,Tier 2 Emission Factor,T39_SABRELINER_Jet_1AS002_2,Jet Gasoline and Aviation Gasoline,,,HC,0.79,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,SOx,1.42,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,CO2,10944.46,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-w,Tier 2 Emission Factor,B788_BOEING_Jet_11GE136_2,Jet Gasoline and Aviation Gasoline,,,HC,0.3,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,NOx,4.44,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,NOx,15.62,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,H2O,2085.08,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,HC,1.51,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,NOx,35.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-y,Tier 2 Emission Factor,DC10_MCDONNELL DOUGLAS_Jet_3GE074_3,Jet Gasoline and Aviation Gasoline,,,H2O,2836.29,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,NOx,11.28,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.69,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-d,Tier 2 Emission Factor,A320_AIRBUS_Jet_3CM026_2,Jet Gasoline and Aviation Gasoline,,,CO,8.25,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,HC,2.1,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,TSP,0.16,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-o,Tier 2 Emission Factor,B744_BOEING_Jet_2GE045_4,Jet Gasoline and Aviation Gasoline,,,CO2,10456.98,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-b,Tier 2 Emission Factor,A310_AIRBUS_Jet_2GE037_2,Jet Gasoline and Aviation Gasoline,,,H2O,1882.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-c,Tier 2 Emission Factor,A319_AIRBUS_Jet_3CM027_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.58,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,CO2,2775.47,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-l,Tier 2 Emission Factor,B738_BOEING_Jet_8CM051_2,Jet Gasoline and Aviation Gasoline,,,SOx,0.74,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-m,Tier 2 Emission Factor,B742_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,HC,3.15,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-n,Tier 2 Emission Factor,B743_BOEING_Jet_3GE077_4,Jet Gasoline and Aviation Gasoline,,,CO2,9684.89,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,SOx,2.83,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-i,Tier 2 Emission Factor,A346_AIRBUS_Jet_8RR045_4,Jet Gasoline and Aviation Gasoline,,,NOx,64.67,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,TSP,0.2,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,NOx,57.78,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,HC,0.24,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-k,Tier 2 Emission Factor,B737_BOEING_Jet_3CM032_2,Jet Gasoline and Aviation Gasoline,,,CO2,2597.65,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-r,Tier 2 Emission Factor,B762_BOEING_Jet_1GE012_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1462.66,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-x,Tier 2 Emission Factor,DC8_MCDONNELL DOUGLAS_Jet_1CM003_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,1695.19,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-v,Tier 2 Emission Factor,B77W_BOEING_Jet_7GE099_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3090.84,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.i.(i),International aviation (LTO),Table_3-4-f,Tier 2 Emission Factor,A333_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2168.08,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-t,Tier 2 Emission Factor,B772_BOEING_Jet_8GE100_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2406.41,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-z,Tier 2 Emission Factor,E175_EMBRAER_Jet_8GE108_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,481.56,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-e,Tier 2 Emission Factor,A332_AIRBUS_Jet_14RR071_2,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,2168.08,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-h,Tier 2 Emission Factor,A345_AIRBUS_Jet_8RR044_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,3279.12,kg/LTO,,,EUROCONTROL 2016
+1.A.3.a.ii.(i),"Civil aviation (domestic, LTO)",Table_3-4-j,Tier 2 Emission Factor,A380_AIRBUS_Jet_8RR046_4,Jet Gasoline and Aviation Gasoline,,,Fuel use for LTO,4142.4,kg/LTO,,,EUROCONTROL 2016
